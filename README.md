@@ -1,9 +1,12 @@
-# VENOM-BUYER
+# VENOM-RESELLER
 
-Bot WhatsApp untuk pelanggan Venom 8.0 PRO.
+Bot WhatsApp khusus Reseller Venom 8.0 PRO.
+
+## Fitur
+- Tambah / hapus / lihat user premium
+- Bug WhatsApp (venom)
 
 ## Cara Install
 1. Clone repo
 2. `npm install`
-3. Buat file `.env` (opsional, token GitHub)
-4. `node VenomMain.js`
+3. `node VenomMain.js`
